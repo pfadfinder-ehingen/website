@@ -2,7 +2,7 @@
 permalink: /impressum
 layout: page
 hide: true
-Title: "Impressum"
+title: "Impressum"
 ---
 <div class='impressum'><h1>Impressum</h1><p>Angaben gemäß § 5 TMG</p><p>Roland Gaschler <br> 
     Hehlestraße 2<br> 

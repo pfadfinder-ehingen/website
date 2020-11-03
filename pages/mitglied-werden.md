@@ -1,7 +1,7 @@
 ---
 permalink: /mitglied-werden
 layout: page
-Title: "Mitglied werden"
+title: "Mitglied werden"
 ---
 <table>
     <tr>
