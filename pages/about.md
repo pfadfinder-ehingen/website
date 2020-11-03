@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über uns
+title: "Über uns"
 permalink: /about
 feature-img: "assets/img/homepage/about.jpg"
 ---
