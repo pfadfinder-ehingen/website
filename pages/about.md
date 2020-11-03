@@ -15,7 +15,7 @@ Nunja, man hat mir mal gesagt: Man kann unwissend sein, aber man soll wissen wo 
 ## Pfadfinder treten immer in seltsamen Hemden und Tüchern auf.
 Immer stimmt nicht ganz, es ist jedem selbst überlassen, ob er sich als Pfadfinder zu erkennen geben möchte und als Zeichen, dass wir Pfadfinder ein Gruppe, ein Verband sind. Normalerweis trägt man die Kluft bei Aktionen und Treffen mit anderen Pfadfindern und wenn dann viele die Kluft tragen, wenn man sieht, wie viele auch Pfadfinder sind, fühlt sich das genial an sage ich euch!
 
-## Das ist doch nur was für Jungs#
+## Das ist doch nur was für Jungs
 Wenn ihr Mädels den Jungs den ganzen Spaß überlassen wollt - bitte, aber dass nur Jungs bei uns sind, ist ebenso falsch, wie dass man sich bei uns im Schlamm wühlen würde. Warum auch?
 
 ## Pfadfinder sind doch nur ein seltsamer kleiner Haufen Menschen.
