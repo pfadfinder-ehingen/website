@@ -8,7 +8,7 @@ Hier auf dieser Seite findest du alle Infos zu den Altersgruppen in die sich die
 
 ## W&ouml;lflinge
 
-![W&ouml;lfing](/assets/img/stufen/woelfling.png)
+![Woelfing](/assets/img/stufen/woelfling.png)
 
 Hallo Test
 
