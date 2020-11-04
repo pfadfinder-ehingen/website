@@ -9,7 +9,7 @@ title: "Kontakt"
 Mathias Rost
 - testmail@test.de\
 Nina Krenzer
-- testmail@test.de\
+- testmail@test.de
 
 ### Admin dieser Website
 Jonas Psotka
