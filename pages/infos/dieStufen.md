@@ -7,7 +7,7 @@ hide: true
 Hier auf dieser Seite findest du alle Infos zu den Altersgruppen in die sich die DPSG gliedert, insgesamt gibt es 4 Kinder- und Jugendstufen und die Leiterrunde
 
 ## W&ouml;lflinge
-![woelfling](/assets/woelfling.png)
+![woelfling](/dpsg-ehingen-website/assets/woelfling.png)
 
 Hallo Test
 
