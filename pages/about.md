@@ -25,3 +25,7 @@ Wenn es seltsam ist, abends an einem Lagerfeuer zu sitzen, in die Glut zu schaue
 ..ja, dann sind wir seltsam. Aber klein?
 
 Die World Organization of Scout Movement hat rund 28 Millionen, unser Verband (die DPSG) über 95 Millionen Mitglieder.
+
+Wennn du noch mehr wissen willst, gibt es hier noch Infos &uuml;ber:
+[unseren Stamm](https://nikurasu.github.io/dpsg-ehingen-website/infos/stamm)
+[die verschiedenen Stufen](https://nikurasu.github.io/dpsg-ehingen-website/infos/stufen)
