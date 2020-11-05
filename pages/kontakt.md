@@ -15,6 +15,6 @@ Nina Krenzer
 Jonas Psotka
 - testmail@test.de
 
-## Des weiteren können sie uns gerne über unsere Social Media Kanäle kontaktieren
+## Des Weiteren können sie uns gerne über unsere Social Media Kanäle kontaktieren
 - [DPSG Ehingen auf Facebook](#)
 - [DPSG Ehingen auf Instagram](#)
