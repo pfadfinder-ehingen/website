@@ -34,3 +34,20 @@ Auf dieser Seite findet ihr Informationen über unseren Stamm, wie z.B. die Lage
 |2017|Star Wars Lager|Niedersonthofen|
 |2018|Einfach Pfadfinden! Eat sleep scout repeat!|Hochland bei K&ouml;nigsdorf|
 |2019|Pok&eacute;mon||
+
+## Vorstandschronik
+
+|von|bis|Vorsitzende/r|Vorsitzende/r|Kurat|
+|---|---|---|---|---|
+|||Ulrika Walter|Markus Tress|Martin Ehrler|
+|||Ulrika Walter|Andreas Kasper|Brigitta Aicher|
+||2000|Ulrika Walter|Ursula Fundel|Brigitta Aicher|
+|2000|2002|Ulrika Walter|Ursula Fundel|-|
+|2002|2005|Ulrika Walter|Ursula Fundel|Roland Gaschler|
+|2005|2007|Elmar Damann|Ursula Fundel|Roland Gaschler|
+|2007|2011|Markus Wick|Manuel-D. Mertel|Roland Gaschler|
+|2011|2014|Patrick Hagel|Raphael Böhm|Roland Gaschler|
+|2014|2015|Patrick Hagel|Ellen Enderle|Roland Gachler|
+|2015|2016|Markus Stadter|Ellen Enderle|Roland Gaschler|
+|2016||Franziska Mittl|Frank Enderle|Roland Gaschler|
+|2019||Mathias Rost|Nina Krenzer|Roland Gaschler|
