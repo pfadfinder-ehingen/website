@@ -6,7 +6,7 @@ title: "Kontakt"
 ## Hier stehen die Kontakte zu allen wichtigen Personen unseres Stamms
 
 ### Aktueller Stammesvorstand
-Mathias Rost
+Matthias Rost
 - testmail@test.de\
 Nina Krenzer
 - testmail@test.de
