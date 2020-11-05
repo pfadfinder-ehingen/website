@@ -9,10 +9,10 @@ title: "Impressum"
     89584 Ehingen <br> 
     </p><p> <strong>Vertreten durch: </strong><br>
     Roland Gaschler<br>
-    </p><p><strong>Kontakt:</strong> <br>
+    </p><p><strong>Kontakt:</strong><br>
     Telefon: 07391-758315<br>
     Fax: 07391-758316<br>
-    E-Mail: <a href='mailto:roland.gaschler@drs.de'>roland.gaschler@drs.de</a></br></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
+    E-Mail: <a href='mailto:roland.gaschler@drs.de'>roland.gaschler@drs.de</a><br></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
     Roland Gaschler <br> 
     Hehlestraße 2<br> 
     89584 Ehingen <br></p> <p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Inhalte</strong><br><br>
