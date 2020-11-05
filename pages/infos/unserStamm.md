@@ -12,7 +12,7 @@ Auf dieser Seite findet ihr Informationen über unseren Stamm, wie z.B. die Lage
 |---|---|---|
 |1996|Lager mit Lazpheim||
 |1997|Kalle Bomquist|Hausen (bei Gamertingen)|
-|1998|Bezirkslager "Haimi Bl&auml;"vo|St&ouml;cklewald|
+|1998|Bezirkslager "Haimi Bl&auml;vo|St&ouml;cklewald|
 |1999|Ronja R&auml;bertochter|M&auml;gerkingen (Lauchert)|
 |2000|Harry Potter|M&auml;gerkingen (Lauchert)|
 |2001|BP-Lager|N&ouml;rdlingen|
