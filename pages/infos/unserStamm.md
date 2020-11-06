@@ -49,5 +49,5 @@ Auf dieser Seite findet ihr Informationen über unseren Stamm, wie z.B. die Lage
 |2011|2014|Patrick Hagel|Raphael Böhm|Roland Gaschler|
 |2014|2015|Patrick Hagel|Ellen Enderle|Roland Gachler|
 |2015|2016|Markus Stadter|Ellen Enderle|Roland Gaschler|
-|2016||Franziska Mittl|Frank Enderle|Roland Gaschler|
+|2016|2019|Franziska Mittl|Frank Enderle|Roland Gaschler|
 |2019||Matthias Rost|Nina Krenzer|Roland Gaschler|
