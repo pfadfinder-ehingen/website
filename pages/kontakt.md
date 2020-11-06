@@ -13,7 +13,7 @@ Nina Krenzer
 
 ### Admin dieser Website
 Jonas Psotka
-- testmail@test.de
+- [jonaspsotka.dpsg-ehingen@nikurasu.de](jonaspsotka.dpsg-ehingen@nikurasu.de)
 
 ## Des Weiteren können sie uns gerne über unsere Social Media Kanäle kontaktieren
 - [DPSG Ehingen auf Facebook](#)
