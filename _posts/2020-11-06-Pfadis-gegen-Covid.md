@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pfadis gegen Covid"
-categories: Covid-19 Aktion
+categories: [Covid-19, Aktion]
 excerpt_separator: <!--more-->
 ---
 Auch das Pfadfinden ist in der Zeit der Corona-Pandemie relativ schwer geworden, zwar sind uns Gruppenstunden noch erlaubt, um jedoch das Infektionsrisiko zu minimieren, haben wir uns dazu entschieden, auch die in den Online-Bereich zu verlagern. F&uuml;r &auml;ltere Kids ab 14 ist das zwar kein Problem, aber f&uuml; die j&uuml;ngeren und auch generell haben wir Wege gesucht dennoch auch anderweitig aktiv zu bleiben.
