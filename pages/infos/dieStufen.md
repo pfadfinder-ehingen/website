@@ -25,9 +25,9 @@ Entdecken und ausprobieren wird hier GROSS GESCHRIEBEN!!!
 Die Gruppenleiter beobachten die Entwicklungsschritte, halten die Entwicklung der Gruppe im Blick und helfen den Kindern, das "Ausprobierte" zu reflektieren
 
 |Welches Alter|10 bis 12 Jahre|
-|Wann ist Gruppenstunde?||
+|Wann ist Gruppenstunde?|Mittwoch|
 |Tipp|Es ist nicht ratsam, die neueste Kleidung aus dem Schrank zu holen, weil man auch als Jupfi genre mal dreckiger nach Hause kommt, als man gegangen ist.|
-|Leitung||
+|Leitung|Marina Farkas, Matthias Rost|
 
 ## Pfadfinder
 ![pfadfinder]({{ "/assets/img/stufen/pfadi.png" | relative_url }})
@@ -35,10 +35,10 @@ Die Gruppenleiter beobachten die Entwicklungsschritte, halten die Entwicklung de
 Unter dem Motto "Wagt es" treffen sich die Jugendlichen der Pfadfinderstufe. Zu wagen heißt hier neue Schritte zu wagen, sowohl durch das veränderte Umfeld als auch, sich zu wagen mit seiner veränderten Persönlichkeit. Es heißt aber auch das Abenteuer Gemeinschaft zu wagen, Gemeinschaft zu gestalten und etwas zu verändern. Der Gruppenleiter unterstützt die Gruppe bei Entscheidungen und hinterfragt Ideen.
 
 |Welches Alter|13 bis 15 Jahre|
-|Wann ist Gruppenstunde?||
+|Wann ist Gruppenstunde?|Donnerstag um 18:00 Uhr|
 |Tipp|Sagen lassen sich die Jugendlichen in diesem Alter sowieso nichts mehr, aber wir wissen dann doch noch das ein oder andere Hintertürchen! ;)
 Auch hier gilt: Bitte Kleidung die schmutzig werden darf anziehen!|
-|Leitung||
+|Leitung|Frank Enderle, Jonas Psotka|
 
 ## Rover
 ![rover]({{ "/assets/img/stufen/rover.png" | relative_url }})
@@ -46,9 +46,9 @@ Auch hier gilt: Bitte Kleidung die schmutzig werden darf anziehen!|
 Rover sind unterwegs. Unterwegs zum Erwachsen werden, unterwegs zu sich selbst und zur Gruppe, unterwegs zum eigenen Stil, unterwegs zur Verantwortung, unterwegs in der Natur und mit dem eigenen Glauben. Der Gruppenleiter fördert die Gruppe, neues zu probieren und neue Wege zu gehen.
 
 |Welches Alter|16 bis 20 Jahre|
-|Wann ist Gruppenstunde?||
+|Wann ist Gruppenstunde?|Freitag|
 |Tipp|Die Roverstufe ist die Gruppe, die alles darf, nichts muss und dennoch gut besucht ist! In dieser Zeit dürfen sich junge Erwachsene selbst ausprobieren und auch mal auf die Nase fallen!|
-|Leitung||
+|Leitung|Dominik Boden|
 
 ## Leiter
 ![leiter]({{ "/assets/img/stufen/leiter.png" | relative_url }})
