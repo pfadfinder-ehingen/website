@@ -2,7 +2,7 @@
 layout: page
 title: "Über uns"
 permalink: /about
-feature-img: "assets/img/homepage/about.jpg"
+feature-img: "assets/img/homepage/about.png"
 ---
 Hier steht etwas über uns, ein paar Klischees, Antworten und Tatsachen.
 

@@ -23,12 +23,12 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   offizielle Homepage des DPSG-Stamms von Ehingen
 header_text: "<br>"
-footer_text: "<a href=\"https://nikurasukun.github.io/dpsg-ehingen-website/datenschutz\">Datenschutz</a> und <a href=\"https://nikurasukun.github.io/dpsg-ehingen-website/impressum\">Impressum</a>"
+footer_text: "<a href=\"https://www.pfadfinder-ehingen.de/datenschutz\">Datenschutz</a> und <a href=\"https://www.pfadfinder-ehingen.de/impressum\">Impressum</a>"
 header_feature_image: assets/img/homepage/dpsg-ehingen-header.jpg
 avatar: assets/img/homepage/DPSG-Lilie_blau.gif
 favicon: assets/img/homepage/DPSG-Lilie_blau.ico
-baseurl: "/dpsg-ehingen-website" # the subpath of your site, e.g. /blog
-url: "https://nikurasukun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.pfadfinder-ehingen.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 cookie_consent: true

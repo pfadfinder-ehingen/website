@@ -7,9 +7,9 @@ title: "Kontakt"
 
 ### Aktueller Stammesvorstand
 Matthias Rost
-- testmail@test.de\
+- [matthiasrost.pfadfinder@gmail.com](mailto:matthiasrost.pfadfinder@gmail.com)\
 Nina Krenzer
-- testmail@test.de
+- [nina-krenzer@web.de](mailto:nina-krenzer@web.de)
 
 ### Admin dieser Website
 Jonas Psotka
