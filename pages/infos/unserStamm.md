@@ -33,7 +33,7 @@ Auf dieser Seite findet ihr Informationen über unseren Stamm, wie z.B. die Lage
 |2016|Bezirkslager "Pfadis z&auml;hmen leicht gemacht"|Donauw&ouml;rth|
 |2017|Star Wars Lager|Niedersonthofen|
 |2018|Einfach Pfadfinden! Eat sleep scout repeat!|Hochland bei K&ouml;nigsdorf|
-|2019|Pok&eacute;mon||
+|2019|Pok&eacute;mon|Schachen bei M&uuml;nsingen|
 
 ## Vorstandschronik
 
