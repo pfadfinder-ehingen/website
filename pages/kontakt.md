@@ -6,7 +6,7 @@ title: "Kontakt"
 ## Hier stehen die Kontakte zu allen wichtigen Personen unseres Stamms
 
 ### Aktueller Stammesvorstand
-Matthias Rost: [matthiasrost.pfadfinder@gmail.com](mailto:matthiasrost.pfadfinder@gmail.com)/
+Matthias Rost: [matthiasrost.pfadfinder@gmail.com](mailto:matthiasrost.pfadfinder@gmail.com) /
 Nina Krenzer: [nina-krenzer@web.de](mailto:nina-krenzer@web.de)
 
 ### Admin dieser Website
