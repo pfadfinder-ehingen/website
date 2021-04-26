@@ -6,6 +6,9 @@ hide: true
 ---
 Hier auf dieser Seite findest du alle Infos zu den Altersgruppen in die sich die DPSG gliedert, insgesamt gibt es 4 Kinder- und Jugendstufen und die Leiterrunde
 
+# Wichtige Info
+Augrund der Corona-Pandemie finden momentan keine Gruppenstunden im Kolpinghaus statt. Um sich dennoch zumindest virtuell treffen zu können, sind wir auf Online-Gruppenstunden umgestiegen.
+
 ## W&ouml;lflinge
 ![woelfling]({{ "/assets/img/stufen/woelfling.png" | relative_url }})
 
