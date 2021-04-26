@@ -36,7 +36,8 @@ Unter dem Motto "Wagt es" treffen sich die Jugendlichen der Pfadfinderstufe. Zu 
 
 |Welches Alter|13 bis 15 Jahre|
 |Wann ist Gruppenstunde?|Donnerstag um 18:00 Uhr|
-|Tipp|Sagen lassen sich die Jugendlichen in diesem Alter sowieso nichts mehr, aber wir wissen dann doch noch das ein oder andere Hintertürchen! ;)&nbsp; Auch hier gilt: Bitte Kleidung die schmutzig werden darf anziehen!|
+|Tipp|Sagen lassen sich die Jugendlichen in diesem Alter sowieso nichts mehr, aber wir wissen dann doch noch das ein oder andere Hintertürchen! ;)  
+Auch hier gilt: Bitte Kleidung die schmutzig werden darf anziehen!|
 |Leitung|Frank Enderle, Jonas Psotka|
 
 ## Rover
