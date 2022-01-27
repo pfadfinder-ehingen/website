@@ -7,6 +7,7 @@ title: "Kontakt"
 
 ### Aktueller Stammesvorstand
 Matthias Rost: [matthiasrost.pfadfinder@gmail.com](mailto:matthiasrost.pfadfinder@gmail.com)<br/>
+Marina Farkas: <br/>
 Nina Krenzer: [nina-krenzer@web.de](mailto:nina-krenzer@web.de)<br/>
 Roland Gaschler: [roland.gaschler@drs.de](mailto:roland.gaschler@drs.de)
 
