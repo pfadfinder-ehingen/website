@@ -23,7 +23,7 @@ Wenn es seltsam ist, als Leiter einen Teil der persönlichen Freizeit dafür ein
 Wenn es seltsam ist, abends an einem Lagerfeuer zu sitzen, in die Glut zu schauen und sich noch einmal die vergangenen Erlebnisse in Gedächtnis zu rufen, oder das ein oder andere Lied anzustimmen und dabei den für eine Weile den Alltag zu vergessen..
 ..ja, dann sind wir seltsam. Aber klein?
 
-Die World Organization of Scout Movement hat rund 28 Millionen, unser Verband (die DPSG) über 95 Millionen Mitglieder.
+Die World Organization of Scout Movement hat rund 43 Millionen, unser Verband (die DPSG) über 95 Tausend Mitglieder.
 
 ### Wennn du noch mehr wissen willst, gibt es hier noch Infos &uuml;ber:
 - [unseren Stamm]({{"/infos/stamm" | relative_url}})
