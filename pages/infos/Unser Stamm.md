@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Unser Stamm"
-permalink: "/infos/stamm"
+title: Unser Stamm
+permalink: /infos/stamm
 hide: true
+modified: 2022-11-25T19:04:50.570Z
 ---
 Auf dieser Seite findet ihr Informationen über unseren Stamm, wie z.B. die Lager, die wir bisher veranstaltet haben oder unsere bisherigen Stammesvorstände.
 
@@ -36,7 +37,7 @@ Auf dieser Seite findet ihr Informationen über unseren Stamm, wie z.B. die Lage
 | 2019 | Pok&eacute;mon                                                                | Schachen bei M&uuml;nsingen     |
 | 2020 | kein Lager aufgrund von Corona                                                |                                 |
 | 2021 | Harry Potter                                                                  | Heiligkreuztal                  |
-| 2022 | Alice im Wunderland                                                           | 
+| 2022 | Alice im Wunderland                                                           | Triberg im Schwarzwald          |
 
 ## Vorstandschronik
 
