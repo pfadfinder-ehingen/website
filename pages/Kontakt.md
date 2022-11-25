@@ -1,12 +1,13 @@
 ---
 permalink: /kontakt
 layout: page
-title: "Kontakt"
+title: Kontakt
+modified: 2022-11-25T18:58:11.794Z
 ---
 ## Hier stehen die Kontakte zu allen wichtigen Personen unseres Stamms
 
 ### Aktueller Stammesvorstand
-Matthias Rost: [matthiasrost.pfadfinder@gmail.com](mailto:matthiasrost.pfadfinder@gmail.com)<br/>
+Simon Missel: [simon.missel.sm91@gmail.com](mailto:simon.missel.sm91@gmail.com)<br/>
 Marina Farkas: [marina.farkas@hotmail.com](mailto:marina.farkas@hotmail.com)<br/>
 Roland Gaschler: [roland.gaschler@drs.de](mailto:roland.gaschler@drs.de)
 

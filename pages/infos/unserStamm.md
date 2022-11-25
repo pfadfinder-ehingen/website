@@ -36,6 +36,7 @@ Auf dieser Seite findet ihr Informationen über unseren Stamm, wie z.B. die Lage
 | 2019 | Pok&eacute;mon                                                                | Schachen bei M&uuml;nsingen     |
 | 2020 | kein Lager aufgrund von Corona                                                |                                 |
 | 2021 | Harry Potter                                                                  | Heiligkreuztal                  |
+| 2022 | Alice im Wunderland                                                           | 
 
 ## Vorstandschronik
 
@@ -53,4 +54,5 @@ Auf dieser Seite findet ihr Informationen über unseren Stamm, wie z.B. die Lage
 | 2015 | 2016 | Markus Stadter  | Ellen Enderle    | Roland Gaschler |
 | 2016 | 2019 | Franziska Mittl | Frank Enderle    | Roland Gaschler |
 | 2019 | 2021 | Matthias Rost   | Nina Krenzer     | Roland Gaschler |
-| 2021 |      | Matthias Rost   | Marina Farkas    | Roland Gaschler |
+| 2021 | 2022 | Matthias Rost   | Marina Farkas    | Roland Gaschler |
+| 2022 |      | Marina Farkas   | Simon Missel     | Roland Gaschler |
