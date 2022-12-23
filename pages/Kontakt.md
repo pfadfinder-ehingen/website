@@ -8,7 +8,7 @@ modified: 2022-11-25T18:58:11.794Z
 
 ### Aktueller Stammesvorstand
 Simon Missel: [simon.missel.sm91@gmail.com](mailto:simon.missel.sm91@gmail.com)<br/>
-Marina Farkas: [marina.farkas@hotmail.com](mailto:marina.farkas@hotmail.com)<br/>
+Marina Farkas: [marina.farkas@hotmail.de](mailto:marina.farkas@hotmail.de)<br/>
 Roland Gaschler: [roland.gaschler@drs.de](mailto:roland.gaschler@drs.de)
 
 ### Admin dieser Website
