@@ -12,7 +12,7 @@ Marina Farkas: [marina.farkas@hotmail.de](mailto:marina.farkas@hotmail.de)<br/>
 Roland Gaschler: [roland.gaschler@drs.de](mailto:roland.gaschler@drs.de)
 
 ### Admin dieser Website
-Jonas Psotka: [jonaspsotka.dpsg-ehingen@nikurasu.de](mailto:jonaspsotka.dpsg-ehingen@nikurasu.de)
+Jonas Psotka: [jonas@psotka.email](mailto:jonas@psotka.email)
 
 ## Des Weiteren können sie uns gerne über unsere Social Media Kanäle kontaktieren
 - [DPSG Ehingen auf Facebook](https://www.facebook.com/DPSGEhingen.Donau)
