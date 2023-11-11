@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /datenschutz
+permalink: /datenschutz/
 title: "Datenschutz"
 hide: true
 ---

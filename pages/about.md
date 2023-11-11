@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Über uns"
-permalink: /about
+permalink: /about/
 ---
 Hier steht etwas über uns, ein paar Klischees, Antworten und Tatsachen.
 

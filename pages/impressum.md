@@ -1,5 +1,5 @@
 ---
-permalink: /impressum
+permalink: /impressum/
 layout: page
 hide: true
 title: "Impressum"

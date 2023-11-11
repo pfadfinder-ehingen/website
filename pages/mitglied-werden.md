@@ -1,5 +1,5 @@
 ---
-permalink: /mitglied-werden
+permalink: /mitglied-werden/
 layout: page
 title: "Mitglied werden"
 ---

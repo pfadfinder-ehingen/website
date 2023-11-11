@@ -43,8 +43,8 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
-# theme: type-on-strap
-remote_theme: sylhare/Type-on-Strap
+theme: type-on-strap
+# remote_theme: sylhare/Type-on-Strap
 plugins:
   - jekyll-feed
   - jekyll-remote-theme

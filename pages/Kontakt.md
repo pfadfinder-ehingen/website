@@ -1,5 +1,5 @@
 ---
-permalink: /kontakt
+permalink: /kontakt/
 layout: page
 title: Kontakt
 modified: 2022-11-25T18:58:11.794Z
